@@ -29,3 +29,4 @@ import pandas as pd df=pd.read_csv('data.csv') print(df.head(10)) print(df.tail(
 ![output](./s.png)
 
 ## RESULT:
+Thus the program is wriiten in read csv file format
